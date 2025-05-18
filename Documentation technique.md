@@ -331,8 +331,8 @@ Récupère toutes les entrées de données physiques pour l'utilisateur courant.
 ## Installation du projet :
 
 ```python
-git clone https://github.com/nRayen/Projet-Leger-E6.git
-cd Projet-Leger-E6/Code
+git clone https://github.com/nRayen/Sportify.git
+cd Sportify
 npm i
 ```
 
