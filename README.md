@@ -5,5 +5,6 @@ Ici vous retrouverez :
 - La documentation utilisateur
 - La documentation juridique
 - La documentation d'incidents
+- Le fichier SQL pour générer les tables
 
 Le code se trouve à cette adresse : [Code](https://github.com/nRayen/Sportify)
