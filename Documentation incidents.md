@@ -62,6 +62,6 @@ Certains utilisateurs voyaient leurs séances planifiées apparaître à la mauv
 
 | Identifiant   | Date       | Description courte                                   | Statut      |
 |---------------|------------|------------------------------------------------------|-------------|
-| INC-2025-01   | 27/02/2025 | Problème de cookie JWT sur login                     | Résolu      |
+| INC-2025-01   | 27/02/2025 | Erreur 500 sur la suppression d’un exercice          | Résolu      |
 | INC-2025-02   | 21/03/2025 | Mauvais format de date dans le planning des séances  | Résolu      |
 
