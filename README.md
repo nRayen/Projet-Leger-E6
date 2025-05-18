@@ -6,5 +6,7 @@ Ici vous retrouverez :
 - La documentation juridique
 - La documentation d'incidents
 - Le fichier SQL pour générer les tables
+- Une image du MCD de la base de données
+- Une image du MLD de la base de données
 
 Le code se trouve à cette adresse : [Code](https://github.com/nRayen/Sportify)
