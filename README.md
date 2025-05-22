@@ -2,6 +2,8 @@
 
 Bonjour,
 Bienvenue sur la documentation de la réalisation professionelle numéro 1 de **Rayen NDIAYE** dans le cadre de l'**épreuve E6** du BTS SIO.
+Le code se trouve à cette adresse : [Code](https://github.com/nRayen/Sportify)
+
 Ici vous retrouverez :
 - La documentation technique
 - La documentation utilisateur
@@ -11,4 +13,3 @@ Ici vous retrouverez :
 - Une image du MCD de la base de données
 - Une image du MLD de la base de données
 
-Le code se trouve à cette adresse : [Code](https://github.com/nRayen/Sportify)
